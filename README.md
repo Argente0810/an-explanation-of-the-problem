@@ -1,1 +1,1 @@
-# an-explanation-of-the-problem
+1. 백준 문제 푼 거 골라서 영어로 어떻게 풀었는지 적기
